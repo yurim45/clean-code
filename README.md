@@ -1,3 +1,3 @@
-# Weekend, I Learend
+# Index
 
-[1. ](https://github.com/yurim45/clean-code/blob/main/items/1/1.md)
+[1. 깨끗한 코드](https://github.com/yurim45/clean-code/blob/main/items/1/1.md)
