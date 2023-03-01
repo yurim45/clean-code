@@ -1,6 +1,6 @@
 # Index
 
-![](https://velog.velcdn.com/images/april_5/post/b09a634d-9b45-4005-a1ca-4b8e6d759ceb/image.png)
+![](https://velog.velcdn.com/images/april_5/post/ca95a6fb-6fa7-499d-805a-5fa59554063a/image.png)
 
 [1. 깨끗한 코드](https://github.com/yurim45/clean-code/blob/main/items/1/1.md)
 
