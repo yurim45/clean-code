@@ -13,3 +13,5 @@
 [5. 형식 맞추기](https://github.com/yurim45/clean-code/blob/main/items/5/5.md)
 
 [6. 객체와 자료 구조](https://github.com/yurim45/clean-code/blob/main/items/6/6.md)
+
+[7. 오류 처리](https://github.com/yurim45/clean-code/blob/main/items/7/7.md)
