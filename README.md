@@ -15,3 +15,5 @@
 [6. 객체와 자료 구조](https://github.com/yurim45/clean-code/blob/main/items/6/6.md)
 
 [7. 오류 처리](https://github.com/yurim45/clean-code/blob/main/items/7/7.md)
+
+[8. 경계](https://github.com/yurim45/clean-code/blob/main/items/8/8.md)
