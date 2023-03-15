@@ -23,3 +23,5 @@
 [10. 클래스](https://github.com/yurim45/clean-code/blob/main/items/10/10.md)
 
 [11. 시스템](https://github.com/yurim45/clean-code/blob/main/items/11/11.md)
+
+[12. 창발성](https://github.com/yurim45/clean-code/blob/main/items/12/12.md)
