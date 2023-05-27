@@ -67,4 +67,3 @@
 [17. 냄새와 휴리스틱](https://github.com/yurim45/clean-code/blob/main/items/17/17.md)
 
 
-
